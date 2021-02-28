@@ -1,5 +1,6 @@
 # Ignore everything
-/*
+./.theia
+./node_modules
 
 !.gitignore
 !.gitpod.yml

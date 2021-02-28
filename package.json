@@ -1,0 +1,23 @@
+{
+  "name": "exercise-unit-test-with-jest",
+  "version": "1.0.0",
+  "description": "``` Important: 💻  This exercise is interactive! Please follow the instructions. ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breatheco-de/exercise-unit-test-with-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breatheco-de/exercise-unit-test-with-jest/issues"
+  },
+  "homepage": "https://github.com/breatheco-de/exercise-unit-test-with-jest#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
